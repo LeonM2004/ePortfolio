@@ -1,12 +1,12 @@
 # ePortfolio
 
 ## Projects
-### Project 1
+### CS 330: Comp Graphic and Visualization
 - Description
-- [Github Repository](https://github.com/LeonM2004/SoftwareTestingAndAutomationQA)
+- [Github Repository](https://github.com/LeonM2004/CompGraphicAndVisualization)
 
 ### Project 2
-- Description
+- CS 360: Mobile Architect and Programming
 - [Github Repository](https://github.com/LeonM2004/MobileArchitectAndProgramming)
 
 ### Education
