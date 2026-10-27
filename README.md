@@ -5,8 +5,8 @@
 - Description
 - [Github Repository](https://github.com/LeonM2004/CompGraphicAndVisualization)
 
-### Project 2
-- CS 360: Mobile Architect and Programming
+CS 360: Mobile Architect and Programming
+- Description
 - [Github Repository](https://github.com/LeonM2004/MobileArchitectAndProgramming)
 
 ### Education
