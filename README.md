@@ -33,6 +33,13 @@ When it comes to the circles interacting, they interact relatively fine with the
 
 However, I was able to make the necessary changes to this very issue by refactoring many parts of the model.cpp file by implementing a formula which prevents the circle from colliding with the bricks causing instant damage regardless of type, along with implementing a switch-case statement which highlights the specific brick classes, and adding a method where the direction of the circle changes downward upon colliding with the reflecting bricks without doing major damage. In model.h of course, I added an extra if statement where the reflective brick's stamina is set to 2.
 
+The original version of the CS 330 8-2 Assignment:
+[Original-Code](https://github.com/LeonM2004/ePortfolio/tree/artifact-1/Original-Code)
+
+The enhanced version for CS 499's Milestone One:
+[Enhancement](https://github.com/LeonM2004/ePortfolio/tree/artifact-1/Enhancement)
+
+Note: These files are required to be located within a Projects folder, along with having Libraries, Utilities, and 3DShapes designated to separate folders.
 
 ### CS 330: Computational Graphics and Visualization
 - Description
